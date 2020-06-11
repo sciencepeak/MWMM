@@ -1,0 +1,6 @@
+louvain_algorithm,0.062,
+fast_greedy,0.657,
+walkstrap,3.078,
+leading_eigen,1.073,
+label-propagation,0.048,
+edge_betweenness,125278,

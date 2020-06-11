@@ -1,0 +1,16 @@
+ontology,measure,in-cluster_similarity_score,inter-cluster_similarity_score
+BP,Jiang,0.135,0.116
+BP,Lin,0.137,0.141
+BP,Rel,0.108,0.116
+BP,Resnik,0.073,0.082
+BP,Wang,0.141,0.131
+CC,Jiang,0.496,0.465
+CC,Lin,0.235,0.209
+CC,Rel,0.164,0.148
+CC,Resnik,0.068,0.062
+CC,Wang,0.35,0.326
+MF,Jiang,0.316,0.229
+MF,Lin,0.173,0.137
+MF,Rel,0.115,0.098
+MF,Resnik,0.043,0.049
+MF,Wang,0.309,0.242
